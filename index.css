@@ -49,9 +49,11 @@ main .intro .IntroText{
 }
 
 main .intro .IntroText #Fancy{
+
     background-image: url(./Asset/Group\ 7.png);
     background-position: center;
     background-repeat: no-repeat;
+    border-radius: 25px;
     height: 20%;
     width:80%;
 }
